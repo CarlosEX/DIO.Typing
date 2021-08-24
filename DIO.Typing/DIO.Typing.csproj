@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icons8_blog.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,6 +49,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Interface\ITyping.cs" />
+    <Compile Include="Model\Lesson.cs" />
+    <Compile Include="Model\RichTyping.cs" />
+    <Compile Include="Model\Typing.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\FormHome.cs">
@@ -53,6 +60,18 @@
     </Compile>
     <Compile Include="View\FormHome.Designer.cs">
       <DependentUpon>FormHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormInputCaracteresGeneratorRandon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormInputCaracteresGeneratorRandon.Designer.cs">
+      <DependentUpon>FormInputCaracteresGeneratorRandon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormInputTextLesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormInputTextLesson.Designer.cs">
+      <DependentUpon>FormInputTextLesson.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +84,12 @@
     </Compile>
     <EmbeddedResource Include="View\FormHome.resx">
       <DependentUpon>FormHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormInputCaracteresGeneratorRandon.resx">
+      <DependentUpon>FormInputCaracteresGeneratorRandon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormInputTextLesson.resx">
+      <DependentUpon>FormInputTextLesson.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -80,7 +105,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
+    <Content Include="icons8_blog.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

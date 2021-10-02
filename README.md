@@ -106,8 +106,32 @@ Dependendo do tipo de profissão, há certas regiões do teclado mais utilizadas
 
 Mas devemos ter em mente que o aprendizado deve englobar todas as partes pois hora ou outra, vamos ser obrigados a utilizar.
 
+## Letras
 
+![E-book Typing](![image](https://user-images.githubusercontent.com/33513870/135734715-78bb0110-8775-4b02-a592-3fa23419b519.png))
 
+### Letras
 
+Essa região é onde geralmente iniciamos nosso aprendizado, e sem dúvida é a região mais utilizada do teclado.
 
-Letras
+Esse região é uma das mais fáceis de aprender, porém requer empenho e dedicação.
+
+## Números
+
+![E-book Typing](![image](![image](https://user-images.githubusercontent.com/33513870/135734734-a2aed55a-a33d-4c3e-b2a3-82ce8728a61f.png)))
+
+### Números
+
+A região de números dependendo do teclado, já começa a dificultar um pouco, pois os números ficam um pouco distante. Você deve empenhar tempo em exercícios constantes nessa região do teclado.
+
+## Operadores e Sinais
+
+### Operadores
+
+Essa é sem dúvida a parte mais difícil de se aprender, pois envolve o uso constante de combinações de mais de uma tecla para chegar em alguns acentos específicos.
+
+Você vai ter que praticar muito a sua memória muscular nessa região para conseguir superá-la.
+
+## Comandos
+
+![E-book Typing](![image](![image](https://user-images.githubusercontent.com/33513870/135734734-a2aed55a-a33d-4c3e-b2a3-82ce8728a61f.png)))

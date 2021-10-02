@@ -108,7 +108,7 @@ Mas devemos ter em mente que o aprendizado deve englobar todas as partes pois ho
 
 ## Letras
 
-![E-book Typing](![image](https://user-images.githubusercontent.com/33513870/135734715-78bb0110-8775-4b02-a592-3fa23419b519.png))
+![E-book Typing](https://user-images.githubusercontent.com/33513870/135734715-78bb0110-8775-4b02-a592-3fa23419b519.png)
 
 ### Letras
 
@@ -118,7 +118,7 @@ Esse região é uma das mais fáceis de aprender, porém requer empenho e dedica
 
 ## Números
 
-![E-book Typing](![image](![image](https://user-images.githubusercontent.com/33513870/135734734-a2aed55a-a33d-4c3e-b2a3-82ce8728a61f.png)))
+![E-book Typing](https://user-images.githubusercontent.com/33513870/135734734-a2aed55a-a33d-4c3e-b2a3-82ce8728a61f.png)
 
 ### Números
 
@@ -134,4 +134,4 @@ Você vai ter que praticar muito a sua memória muscular nessa região para cons
 
 ## Comandos
 
-![E-book Typing](![image](![image](https://user-images.githubusercontent.com/33513870/135734734-a2aed55a-a33d-4c3e-b2a3-82ce8728a61f.png)))
+![E-book Typing](https://user-images.githubusercontent.com/33513870/135734734-a2aed55a-a33d-4c3e-b2a3-82ce8728a61f.png)

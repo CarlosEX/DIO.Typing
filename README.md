@@ -1,4 +1,7 @@
 # DIO.Typing
+
+No quesito produtividade, digitar sem olhar para o teclado, sabendo o posicionamento correto das mãos e as associações de teclas e dados, é algo que devemos levar em consideração para aprendermos, principalmente no momento em que estamos vivendo.
+
 Ferramenta desktop para Typing.
 DIOTyping é um sistema simples para treinar a digitação com destaque de erros e acertos, gráfico e métricas simples. Você pode trabalhar com textos livres ou criar combinações de teclas.
 

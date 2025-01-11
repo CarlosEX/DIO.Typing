@@ -285,7 +285,7 @@ Um forte abraço,
 Veja a planilha que criei para minha sobrinha aprender digitar de forma fácil e ilustrativa: [Typing - Digitação Podutiva (vimeo.com)](https://vimeo.com/manage/videos/505852291)
 
 
-Acesse meu site: https://carlosantoniocison.editorx.io/portifolio
+Acesse meu portifólio: [https://carlosantoniocison.editorx.io/portifolio](https://carlosantonio.streamlit.app/)
 
 
 Carlos Antonio.
